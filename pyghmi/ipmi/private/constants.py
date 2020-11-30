@@ -14,7 +14,7 @@
 
 import pyghmi.constants as const
 
-IPMI_BMC_ADDRESS = 0x20
+IPMI_BMC_ADDRESS = 0x82
 IPMI_SEND_MESSAGE_CMD = 0x34
 
 
